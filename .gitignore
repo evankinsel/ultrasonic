@@ -1,0 +1,10 @@
+# Acquired measurements, local environment and editor state
+data/raw/
+data/processed/
+results/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
